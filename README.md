@@ -4,7 +4,7 @@ I'm a Full Stack Developer with a passion for creating web applications and solv
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Acme InfoSoft using MERN Stack.
+- 🔭 I’m currently working at Acme InfoSoft using MERN Stack.
 - 🌱 I’m constantly learning and improving my skills in Full-stack Technologies.
 - 👯 I’m open to collaborating on open-source projects and interesting web applications.
 - 💬 Ask me about Javascript, React, Node.js, Database Design and Deployment.
