@@ -1,19 +1,19 @@
 # Hi there, I'm Mohit Bishnoi 👋
 
-I'm a Full Stack Developer with a passion for creating web applications and solving complex problems. Welcome to my GitHub profile!
+I'm a Full Stack Enginner with a passion for creating web applications and solving complex problems. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working at Acme InfoSoft using MERN Stack.
+- 🔭 I’m currently working at Inventec using React and Sprinboot.
 - 🌱 I’m constantly learning and improving my skills in Full-stack Technologies.
 - 👯 I’m open to collaborating on open-source projects and interesting web applications.
-- 💬 Ask me about Javascript, React, Node.js, Database Design and Deployment.
+- 💬 Ask me about Javascript, Java, React, Node.js,Spring, Database Design and Deployment.
 - 📫 You can reach me via email at bishnoi.mohit@icloud.com.
 
 ## 🛠️ Technologies & Tools
 
-- Languages: HTML, CSS, JavaScript, C++, Swift, Python, PHP
-- Frameworks & Libraries: React, Angular, Laravel, NodeJs, Express
+- Languages: HTML, CSS, JavaScript, Java, Swift
+- Frameworks & Libraries: React, Springboot, NodeJs, Express
 - Databases: MongoDB, MySQL
 - Testing: Jest, cypress
 - Tools: VS Code, XCode, Github
